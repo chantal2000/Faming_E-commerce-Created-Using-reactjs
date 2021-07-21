@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
     return (
         <div>
-            Love is good   
+           <h1>Love is good </h1>   
         </div>
     )
 }
